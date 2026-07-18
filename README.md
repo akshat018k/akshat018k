@@ -93,9 +93,7 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 # 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat018k&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat018k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,9 +101,7 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshat018k&theme=algolia&margin-w=10&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat018k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 </p>
 
 ---
