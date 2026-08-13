@@ -81,8 +81,14 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshat018k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat018k&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akshat018k&show_icons=true&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akshat018k&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
 ---
@@ -91,7 +97,7 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat018k&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshat018k&theme=tokyonight"
     alt="Most Used Languages"
   />
 </p>
