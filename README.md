@@ -90,7 +90,10 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 # 📈 Most Used Languages
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat018k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat018k&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
