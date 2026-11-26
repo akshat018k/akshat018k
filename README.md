@@ -106,7 +106,7 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://YOUR-CHOSEN-MIRROR-DOMAIN/?username=akshat018k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
