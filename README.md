@@ -36,7 +36,7 @@ Become an International Full Stack Developer and work in **Germany 🇩🇪** or
 
 <p align="left">
 
-<a href="https://linkedin.com/in/akshat-kumbhani-198816281">
+<a href="https://www.linkedin.com/in/akshat-kumbhani-589a08440/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45">
 </a>
 
